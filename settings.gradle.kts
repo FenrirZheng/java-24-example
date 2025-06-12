@@ -1,0 +1,1 @@
+rootProject.name = "jdk-24-example"
